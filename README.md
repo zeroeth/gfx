@@ -24,8 +24,8 @@ rendering libraries
 * paper.js http://paperjs.org/
 
 
-resources
----------
+resources and inspiration
+-------------------------
 * creative js http://creativejs.com/
 * learn webgl http://learningwebgl.com/blog/?page_id=1217
 * GLSL shaders http://glsl.heroku.com/
@@ -33,18 +33,25 @@ resources
 * chrome experiments http://www.chromeexperiments.com/
 * fabien sanglard's blog http://fabiensanglard.net/
 * indie resources http://www.pixelprospector.com/indie-resources/
+* demoscene recordings https://www.youtube.com/playlist?list=PL4DMxqSU8zD5Gzt49VRbkU0oL-cJjuJP9
+* (more at) http://www.pouet.net/prodlist.php
+* retro rendering style http://www.uvlist.net/groups/info/stipplealpha
 
-
-samples
--------
-* three.js + geometry http://codepen.io/zeroeth/pen/BGmHk
-* three.js + shaders http://codepen.io/zeroeth/pen/baHzj
-* three.js + shaders with parameters http://codepen.io/zeroeth/pen/dAhck
+simply samples
+--------------
+* three.js geometry http://codepen.io/zeroeth/pen/BGmHk
+* three.js shaders http://codepen.io/zeroeth/pen/baHzj
+* three.js shaders with parameters http://codepen.io/zeroeth/pen/dAhck
 
 * css animation http://codepen.io/zeroeth/pen/wayfx
-* css animation + nested objects http://codepen.io/zeroeth/pen/CxtDs
+* css animation nested objects http://codepen.io/zeroeth/pen/CxtDs
 
 
-inspiration
------------
-* demoscene recordings https://www.youtube.com/playlist?list=PL4DMxqSU8zD5Gzt49VRbkU0oL-cJjuJP9
+otherworldly
+------------
+* http://www.displayhack.org/2012/the-great-demoscene-sourcecode-giveaway/
+* http://in4k.northerndragons.ca/index.php?title=Main_Page
+* http://www.dbfinteractive.com/
+* http://iquilezles.org/prods/index.htm
+* http://www.displayhack.org/category/features/making-of/
+* http://elsewhere.stc.cx/demoprogramming/
