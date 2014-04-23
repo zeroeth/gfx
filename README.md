@@ -1,9 +1,10 @@
 links
 =====
 
-In the begining there was http://codepen.io/zeroeth/full/lqDGt
+In the beginning of the web there was http://codepen.io/zeroeth/full/lqDGt
 
-* history of 3d graphics in games https://www.youtube.com/watch?v=hTehcvSgyWI
+A brief history of 3d graphics in computer games https://www.youtube.com/watch?v=hTehcvSgyWI
+
 
 current web rendering technologies
 ----------------------------------
@@ -42,7 +43,6 @@ simply samples
 * three.js geometry http://codepen.io/zeroeth/pen/BGmHk
 * three.js shaders http://codepen.io/zeroeth/pen/baHzj
 * three.js shaders with parameters http://codepen.io/zeroeth/pen/dAhck
-
 * css animation http://codepen.io/zeroeth/pen/wayfx
 * css animation nested objects http://codepen.io/zeroeth/pen/CxtDs
 
