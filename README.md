@@ -71,3 +71,10 @@ desktop frameworks
 * http://www.openframeworks.cc/
 * http://vvvv.org/
 * http://libcinder.org/
+
+
+offline rendering
+-----------------
+* blender cycles http://www.blenderguru.com/videos/introduction-to-cycles/
+* luxrender http://www.luxrender.net/
+* yafaray http://www.yafaray.org/
