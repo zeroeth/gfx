@@ -74,6 +74,10 @@ header h2 {
   margin: 0;
 }
 
+#downloads {
+  display: none;
+}
+
 /* Main Content
 */
 
