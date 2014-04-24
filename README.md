@@ -8,9 +8,9 @@ A brief history of 3d graphics in computer games https://www.youtube.com/watch?v
 
 current web rendering technologies
 ----------------------------------
-* svg
-* canvas
-* webgl
+* svg (javascript events, persistence)
+* canvas (fast, pixel access, basic shapes)
+* webgl (the matrix)
 
 
 rendering libraries
@@ -23,7 +23,8 @@ rendering libraries
 * d3 http://d3js.org/
 * bonsai.js http://bonsaijs.org/
 * paper.js http://paperjs.org/
-
+* raytracer http://blog.ivank.net/smallpt-in-javascript.html
+* emscripten https://github.com/kripken/emscripten/wiki
 
 resources and inspiration
 -------------------------
@@ -35,7 +36,7 @@ resources and inspiration
 * fabien sanglard's blog http://fabiensanglard.net/
 * indie resources http://www.pixelprospector.com/indie-resources/
 * demoscene recordings https://www.youtube.com/playlist?list=PL4DMxqSU8zD5Gzt49VRbkU0oL-cJjuJP9
-* (more at) http://www.pouet.net/prodlist.php
+* demoscene database http://www.pouet.net/prodlist.php
 * retro rendering style http://www.uvlist.net/groups/info/stipplealpha
 
 simply samples
@@ -47,11 +48,26 @@ simply samples
 * css animation nested objects http://codepen.io/zeroeth/pen/CxtDs
 
 
-otherworldly
-------------
+otherworldly (demoscene)
+------------------------
 * http://www.displayhack.org/2012/the-great-demoscene-sourcecode-giveaway/
 * http://in4k.northerndragons.ca/index.php?title=Main_Page
 * http://www.dbfinteractive.com/
 * http://iquilezles.org/prods/index.htm
 * http://www.displayhack.org/category/features/making-of/
 * http://elsewhere.stc.cx/demoprogramming/
+
+desktop graphics (procedural)
+-----------------------------
+* http://www.contextfreeart.org/gallery/
+* http://www.apophysis.org/
+* https://code.google.com/p/topmod/
+* http://structuresynth.sourceforge.net/
+
+
+desktop frameworks
+------------------
+* http://www.processing.org/
+* http://www.openframeworks.cc/
+* http://vvvv.org/
+* http://libcinder.org/
